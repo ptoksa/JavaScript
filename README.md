@@ -1,4 +1,4 @@
-# JavaScript
+# JavaScript Projects
 Projects for JavaScript Algorithms and Data Structures Developer Certification.
 
 #1 Palindrome Checker
